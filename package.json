@@ -1,0 +1,23 @@
+{
+	"name": "nextinline",
+	"version": "1.0.0",
+	"description": "Read stream line by line",
+	"main": "index.js",
+	"scripts": {
+		"test": "node test/test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/ecmas/nextinline.git"
+	},
+	"keywords": [
+		"nodejs",
+		"readline"
+	],
+	"author": "ecmas",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ecmas/nextinline/issues"
+	},
+	"homepage": "https://github.com/ecmas/nextinline"
+}
